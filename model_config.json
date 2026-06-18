@@ -1,0 +1,18 @@
+{
+  "model_path": "voice_detector.pt",
+  "sr": 16000,
+  "duration": 3,
+  "n_mfcc": 40,
+  "max_len": 48000,
+  "labels": {
+    "0": "REAL",
+    "1": "FAKE"
+  },
+  "languages": [
+    "English",
+    "Hindi",
+    "Kannada",
+    "Marathi",
+    "Telugu"
+  ]
+}
